@@ -1,2 +1,2 @@
-# Simula-o_Probabilista
+# Simulaco_Probabilista
 Alguns códigos fazendo simulação computacional de distribuições de probabilidade
