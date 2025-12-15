@@ -35,6 +35,10 @@ Para garantir uniformidade na área, a densidade de probabilidade marginal do ra
     $$R = \sqrt{U}$$
     *Resultado:* Distribuição uniforme em área.
 
+    | Método Incorreto | Método Correto |
+| :---: | :---: |
+| <img src="URL_DA_SUA_IMAGEM_ERRADA.png" width="300"> | <img src="URL_DA_SUA_IMAGEM_CERTA.png" width="300"> |
+
 ## Exemplo de Código
 
 O trecho principal da simulação (do arquivo `uniforme_circ.ipynb`):
