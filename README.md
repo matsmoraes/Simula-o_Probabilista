@@ -35,7 +35,7 @@ Para garantir uniformidade na área, a densidade de probabilidade marginal do ra
     $$R = \sqrt{U}$$
     *Resultado:* Distribuição uniforme em área.
 
-| <img src="comparacao.png" width="500">
+| <img src="comparacao.png" width="1000">
 
 ## Exemplo de Código
 
