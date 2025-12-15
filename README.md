@@ -66,4 +66,4 @@ y = r_correct * np.sin(theta)
 * [**Simulação (Notebook)**](uniforme_circ%20(2).ipynb) - Código e gráficos.
 
 ---
-**Autor:** Matheus de Moraes | [LinkedIn](URL)
+**Autor:** Matheus de Moraes | [LinkedIn](https://www.linkedin.com/in/matheus-neves-864aa01a8/)
