@@ -14,8 +14,8 @@ Este projeto resolve isso aplicando uma correção não-linear ao raio: $R \sim 
 
 ## Conteúdo do Repositório
 
-* **[`relatorio_circ.pdf`](relatorio_circ%20(1).pdf)**: Relatório técnico/Pôster contendo a dedução matemática completa, cálculo do Jacobiano e a prova pelo Teorema da Transformada Inversa.
-* **[`uniforme_circ.ipynb`](uniforme_circ%20(2).ipynb)**: Notebook Jupyter com a implementação em Python, simulação de Monte Carlo e visualização de dados.
+* **[`relatorio_circ.pdf`](relatorio_circ.pdf)**: Relatório técnico/Pôster contendo a dedução matemática completa, cálculo do Jacobiano e a prova pelo Teorema da Transformada Inversa.
+* **[`uniforme_circ.ipynb`](uniforme_circ.ipynb)**: Notebook Jupyter com a implementação em Python, simulação de Monte Carlo e visualização de dados.
 
 ## Tecnologias Utilizadas
 
